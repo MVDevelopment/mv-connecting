@@ -13,3 +13,5 @@ mv-connecting is a customizable FiveM connecting menu script that replaces the d
 Short & Punchy
 
 A modern and lightweight FiveM connecting menu that enhances the player loading experience with a clean, customizable interface.
+
+for more scripts : https://discord.gg/wgu5mTu8zy
